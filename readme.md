@@ -115,7 +115,8 @@ Reusable block of code whose existence does not accidentally impact other code
 An agreed upon standard for how code modules should be structured
 
 **First class Functions**
-Everything you can do with other types you can do with functions
+Everything you can do with other types you can do with functions.  <br>
+You can use functions like strings, numbers etc. ( i.e pass them around, set variables equal to them, put them in arrays and more )  
 
 **Expression**
 A block of code that results in a value
